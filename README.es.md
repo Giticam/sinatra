@@ -11,7 +11,7 @@ crear aplicaciones web rápidamente en Ruby con un mínimo esfuerzo:
 require 'sinatra'
 
 get '/' do
-  'Hola mundo!'
+  'Hola mundo! Hola mundo!'
 end
 ```
 
